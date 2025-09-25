@@ -14,11 +14,16 @@ A ideia é criar uma página clara, inclusiva e intuitiva, que possa ser facilme
 
 🤝 Pontos de apoio para pessoas com mobilidade reduzida
 
+---
+
 📌 Objetivos do Projeto
 
 ✔️ Desenvolver uma página responsiva e inclusiva, que siga boas práticas de acessibilidade.
 ✔️ Estruturar o conteúdo de forma semântica usando apenas HTML e CSS.
 ✔️ Reforçar a importância da acessibilidade digital como forma de garantir a inclusão social.
+
+---
+
 
 🛠️ Tecnologias Utilizadas
 
@@ -27,6 +32,8 @@ HTML5 → Estrutura semântica da página
 CSS3 → Estilização e responsividade
 
 Boas práticas de Acessibilidade (uso de textos alternativos, contrastes adequados, navegação por teclado)
+
+---
 
 🎨 Funcionalidades da Página
 
@@ -37,6 +44,8 @@ Boas práticas de Acessibilidade (uso de textos alternativos, contrastes adequad
 ✅ Paleta de cores com alto contraste para melhorar a legibilidade
 
 ✅ Uso de tags semânticas para auxiliar leitores de tela
+
+---
 
 ♿ Importância da Acessibilidade Digital
 
@@ -54,6 +63,8 @@ Estrutura semântica para compatibilidade com leitores de tela.
 
 Essas práticas ajudam a tornar a web mais justa, inclusiva e democrática.
 
+---
+
 📚 Aprendizados com o Projeto
 
 Durante o desenvolvimento desta página, aprendemos a:
@@ -65,6 +76,8 @@ Aplicar conceitos de HTML semântico para melhorar a estrutura do site.
 Utilizar CSS de forma organizada, garantindo responsividade e clareza visual.
 
 Compreender na prática como a acessibilidade digital impacta positivamente a vida de muitas pessoas.
+
+---
 
 🎨 Explicação das Decisões de Design
 
@@ -78,6 +91,8 @@ Layout limpo e intuitivo, evitando excesso de informações.
 
 Priorização de fontes legíveis e tamanhos adequados.
 
+---
+
 🗺️ Áreas do “Mapa da Inclusão” Contempladas
 
 O projeto contemplou principalmente:
@@ -87,6 +102,8 @@ Mobilidade Urbana → ônibus acessíveis, estações com recursos inclusivos.
 Infraestrutura Urbana → rampas, pisos táteis e elevadores.
 
 Pontos de Apoio → locais de atendimento e auxílio para pessoas com deficiência ou mobilidade reduzida.
+
+---
 
 👤 Acessibilidade e Experiência da Pessoa PCD
 
@@ -102,6 +119,8 @@ Foco na usabilidade, destacando as informações mais relevantes.
 
 Nosso objetivo foi criar uma experiência inclusiva, prática e respeitosa para todos os usuários.
 
+---
+
 👀 Pré-visualização do Projeto
 
 📸 Captura de Tela:
@@ -110,9 +129,13 @@ Nosso objetivo foi criar uma experiência inclusiva, prática e respeitosa para 
 🔗 Versão Online (GitHub Pages):
 👉 Acesse o projeto aqui
 
+---
+
 👩‍💻 Equipe
 
 Este projeto foi desenvolvido em equipe como parte de uma atividade colaborativa.
 Cada integrante contribuiu com ideias, código e organização para garantir que o resultado fosse inclusivo e funcional.
+
+---
 
 ✨ Acessibilidade não é apenas uma funcionalidade, é um direito de todos. ✨
