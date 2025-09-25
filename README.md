@@ -6,16 +6,11 @@ A ideia é criar uma página clara, inclusiva e intuitiva, que possa ser facilme
 
 🧭 Temas Representados na Página
 
-A página aborda os seguintes pontos:
-
 🚍 Informações sobre ônibus com acessibilidade
-Apresenta dados e orientações sobre linhas de ônibus adaptadas, veículos com elevadores e assentos prioritários.
 
 🗺️ Mapa das estações com elevador ou piso tátil
-Mostra um mapa de estações e pontos que possuem recursos de acessibilidade, como pisos táteis, rampas e elevadores.
 
 🤝 Pontos de apoio para pessoas com mobilidade reduzida
-Informa sobre locais de apoio, atendimento prioritário e serviços que ajudam na locomoção.
 
 📌 Objetivos do Projeto
 
@@ -44,7 +39,8 @@ Boas práticas de Acessibilidade (uso de textos alternativos, contrastes adequad
 ♿ Importância da Acessibilidade Digital
 
 A acessibilidade digital garante que todas as pessoas possam acessar e interagir com a informação, independentemente de suas limitações.
-Neste projeto, aplicamos conceitos de:
+
+Aplicamos conceitos como:
 
 Textos alternativos em imagens.
 
@@ -70,15 +66,15 @@ Compreender na prática como a acessibilidade digital impacta positivamente a vi
 
 🎨 Explicação das Decisões de Design
 
-O design da página foi pensado para ser simples, objetivo e funcional, garantindo a usabilidade e a inclusão. Algumas escolhas importantes foram:
+O design foi pensado para ser simples, objetivo e funcional, garantindo usabilidade e inclusão.
 
 Uso de cores contrastantes para facilitar a leitura.
 
 Organização em seções bem destacadas, com ícones e títulos claros.
 
-Layout limpo e intuitivo, evitando excesso de informações em uma única área.
+Layout limpo e intuitivo, evitando excesso de informações.
 
-Priorização de fontes legíveis e tamanhos adequados para diversos dispositivos.
+Priorização de fontes legíveis e tamanhos adequados.
 
 🗺️ Áreas do “Mapa da Inclusão” Contempladas
 
@@ -86,29 +82,25 @@ O projeto contemplou principalmente:
 
 Mobilidade Urbana → ônibus acessíveis, estações com recursos inclusivos.
 
-Infraestrutura Urbana → presença de rampas, pisos táteis e elevadores.
+Infraestrutura Urbana → rampas, pisos táteis e elevadores.
 
 Pontos de Apoio → locais de atendimento e auxílio para pessoas com deficiência ou mobilidade reduzida.
 
-Esses pontos foram escolhidos por representarem situações cotidianas e essenciais para a autonomia e inclusão social.
-
 👤 Acessibilidade e Experiência da Pessoa PCD
 
-Durante o planejamento, a equipe se preocupou em como a pessoa com deficiência (PCD) iria interagir com a página. Foram considerados:
+Na experiência da pessoa com deficiência (PCD), consideramos:
 
 Navegação via teclado (sem depender apenas do mouse).
 
-Compatibilidade com leitores de tela, utilizando tags semânticas e descrições alternativas em imagens.
+Compatibilidade com leitores de tela com tags semânticas e descrições alternativas em imagens.
 
-Clareza visual, sem poluição estética que dificulte o entendimento.
+Clareza visual sem excesso de informações.
 
-Foco na usabilidade, garantindo que as informações mais importantes sejam encontradas rapidamente.
+Foco na usabilidade, destacando as informações mais relevantes.
 
 Nosso objetivo foi criar uma experiência inclusiva, prática e respeitosa para todos os usuários.
 
 👀 Pré-visualização do Projeto
-
-Aqui você pode ter uma ideia de como ficou a página:
 
 📸 Captura de Tela:
 
