@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Acessibilidade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+     <header>
+    <h1> Transporte e Mobilidade Urbana</h1>
+    <p>Acessibilidade e inclusão para todos</p>
+
+    <!-- Botões de acessibilidade -->
+    <div class="accessibility-tools">
+      <button onclick="document.body.classList.toggle('high-contrast')">Alto Contraste</button>
+      <button onclick="document.body.classList.toggle('large-font')">Aumentar Fonte</button>
+      <button onclick="document.body.classList.toggle('colorblind-mode')"> Modo Daltonismo</button>
+    </div>
+  </header>
+
+  <nav>
+    <a href="#onibus">Ônibus</a>
+    <a href="#estacoes">Estações</a>
+    <a href="#apoio">Pontos de Apoio</a>
+  </nav>
+
+  <main>
+    <section id="onibus">
+      <h2> <a href="onibus.html"style="text-decoration: none;"
+>Ônibus com acessibilidade</a></h2>
+      <img src="img/onibus.jpg" class="imagem">
+      <ul>
+        <li>Linha 101 – Possui rampa e espaço para cadeira de rodas.</li>
+        <li>Linha 205 – Sem adaptação completa.</li>
+        <li>Linha 330 – Elevador hidráulico disponível.</li>
+      </ul>
+    </section>
+
+    <section id="estacoes">
+      <h2> <a href="estacao.html" style="text-decoration: none;"
+      >Estações acessíveis</a></h2>
+      <img src="img/mapa.jpeg" alt="Estação de metrô com acessibilidade" class="imagem">
+      <ul>
+        <li>Estação Central – Elevador e piso tátil.</li>
+        <li>Estação Leste – Piso tátil, sem elevador.</li>
+        <li>Estação Norte – Elevador disponível.</li>
+      </ul>
+    </section>
+
+    <section id="apoio">
+      <h2> <a href="apoio.html"style="text-decoration: none;"
+>Pontos de apoio</a></h2>
+      <img src="img/apoio.jpg" alt="Ponto de apoio com atendimento" class="imagem">
+      <ul>
+        <li>Balcão de informações adaptado – Estação Central.</li>
+        <li>Posto móvel – Rua das Flores.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>🌍 Protótipo de página acessível — dados simulados.</p>
+  </footer>
+</body>
+</html>
+
+
