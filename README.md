@@ -4,6 +4,8 @@ Este projeto tem como objetivo planejar, estruturar e desenvolver uma página we
 
 A ideia é criar uma página clara, inclusiva e intuitiva, que possa ser facilmente navegada por todas as pessoas, incluindo aquelas com deficiência visual, auditiva ou mobilidade reduzida.
 
+---
+
 🧭 Temas Representados na Página
 
 🚍 Informações sobre ônibus com acessibilidade
