@@ -146,6 +146,7 @@ Nosso objetivo foi criar uma experiência inclusiva, prática e respeitosa para 
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1673e92-6ca5-42d8-9bd9-f1c664ca5b3b" />
 
+---
 
 👉 Acesse o projeto aqui
 🔗https://transporteacessivel.netlify.app/
